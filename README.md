@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is César Gabriel and I'm a computer engineering from SENAI CIMATEC</p>
+<p align="left">My name is César Gabriel and I'm a student of computer engineering from SENAI CIMATEC</p>
 
 ###
 
